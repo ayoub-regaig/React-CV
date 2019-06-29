@@ -31,3 +31,38 @@
     transform: rotate(360deg);
   }
 }
+.tb{
+  background-color: #148b5a;
+}
+.pm{
+  width: 350px;
+}
+.lm{
+  background-color: #36d191;
+  width: 30%;
+  display: inline-block
+}
+.mp{
+  display: inline-block;
+}
+.des{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: lightblue;
+  margin-top: 20px;
+  border-radius: 5px;
+  margin-left: 20px;
+  justify-content:center 
+}
+.lol{
+  display: flex;
+  flex-direction: row;
+
+}
+.meme{
+  margin-left:30px
+}
+.kool{
+  padding: 20px
+}
